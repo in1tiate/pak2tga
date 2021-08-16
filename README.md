@@ -18,3 +18,4 @@ All this script does is make a copy of each input file with the first five bytes
 
 **Note:**
   - I used file extensions here to identify input files because the person who requested this script is running Windows. If I were writing this again for a more general audience, I would identify input files by parsing the header directly.
+  - [QuickBMS](http://aluigi.altervista.org/quickbms.htm), a fantastic ripping tool, renders this script obsolete. I suggest if you are seriously intending to rip assets from Corpse Party 2 that you use it instead.

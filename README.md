@@ -1,7 +1,7 @@
 # pak2tga
 Conversion script for image files from Corpse Party 2: Dead Patient from PAK archives to TGA images.
 
-This was made by request. As it turns out, Corpse Party 2 stores its character sprites as uncompressed TGA images inside an archive with this header: 
+This was made by request. As it turns out, Corpse Party 2 stores its character sprites uncompressed as TGA images inside an archive with this header: 
 
 `00 00 00 00 00` 
 
